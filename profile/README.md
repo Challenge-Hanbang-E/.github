@@ -14,9 +14,9 @@
 
 <table>
   <tr>
+    <td align="center"><b>Developer</b></td>
+    <td align="center"><b>Developer</b></td>
     <td align="center"><b>Team Leader</b></td>
-    <td align="center"><b>Developer</b></td>
-    <td align="center"><b>Developer</b></td>
     <td align="center"><b>Developer</b></td>
     <td align="center"><b>Developer</b></td>
 </tr>
