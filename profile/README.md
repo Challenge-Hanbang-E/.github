@@ -227,6 +227,6 @@ RDS로 바로 바로 전송하므로, 통신 횟수는 백 만건 이상이며 �
   <br/>
   
   > 더욱 자세한 내용은 아래 링크를 참조
-  - [@동시성 제어 정리](https://extreme-wall-e0e.notion.site/b7696e3e4a234fc29ccac3512ab77c79)
+  - [@동시성 제어 정리](https://www.notion.so/Concurrency-Issue-Concurrency-Control-e22ed63e26c243a287c36352fa77596b?pvs=4)
   
 
